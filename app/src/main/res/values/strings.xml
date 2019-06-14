@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Marca</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar o registrarse</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"Bienvenido"</string>
+    <string name="invalid_username">Usuario inválido</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Ingreso fallido"</string>
+    <string name="nombre">"Nombre"</string>
+    <string name="apellido">"Apellido"</string>
+    <string name="titulo_registro">"Registrarse!"</string>
+    <string name="envio_internacional">"Envio internacional"</string>
+    <string name="condiciones">"Condiciones Serv."</string>
+    <string name="salir">"Salir"</string>
+    <string name="lorem">"Lorem ipsum dolor sit amet consectetur, adipiscing elit litora cubilia, laoreet vitae venenatis risus. Mus placerat molestie fringilla interdum tortor mattis fusce odio, tellus dignissim netus felis ad faucibus ante, eget at imperdiet sagittis velit parturient donec. Nec sem nulla auctor habitasse nam cum per tristique proin, sed sodales imperdiet aliquam mi tortor duis ut, curae blandit justo orci cubilia dictumst odio sociis.
+        Lorem ipsum dolor sit amet consectetur, adipiscing elit litora cubilia, laoreet vitae venenatis risus. Mus placerat molestie fringilla interdum tortor mattis fusce odio, tellus dignissim netus felis ad faucibus ante, eget at imperdiet sagittis velit parturient donec. Nec sem nulla auctor habitasse nam cum per tristique proin, sed sodales imperdiet aliquam mi tortor duis ut, curae blandit justo orci cubilia dictumst odio sociis.
+        Lorem ipsum dolor sit amet consectetur, adipiscing elit litora cubilia, laoreet vitae venenatis risus. Mus placerat molestie fringilla interdum tortor mattis fusce odio, tellus dignissim netus felis ad faucibus ante, eget at imperdiet sagittis velit parturient donec. Nec sem nulla auctor habitasse nam cum per tristique proin, sed sodales imperdiet aliquam mi tortor duis ut, curae blandit justo orci cubilia dictumst odio sociis
+        Lorem ipsum dolor sit amet consectetur, adipiscing elit litora cubilia, laoreet vitae venenatis risus. Mus placerat molestie fringilla interdum tortor mattis fusce odio, tellus dignissim netus felis ad faucibus ante, eget at imperdiet sagittis velit parturient donec. Nec sem nulla auctor habitasse nam cum per tristique proin, sed sodales imperdiet aliquam mi tortor duis ut, curae blandit justo orci cubilia dictumst odio sociis.
+        .
+        "</string>
+    <string name="acepto_condiciones">"Acepto las condiciones"</string>
+    <string name="titulo_condiciones">"Titulo condiciones"</string>
+    <string name="nro_telefono">"0800-888-5454"</string>
+    <string name="titulo_principal">"Bienvenido a Fedex"</string>
+
+</resources>
